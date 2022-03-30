@@ -15,6 +15,7 @@ Collected resources is shared freely with all developers from team.
 * **Patterns** - for resources with patterns (from weekly meetups)
 * **Meetups** - for resources from individual meetups
 * **Django** - for resources with meetups/discource about Django
+* **DevOps** - for resources with DevOps practices
 * **Useful** - for resources with just interesting things, or if they do not fit in the previous sections
 
 Other sections can be added later
