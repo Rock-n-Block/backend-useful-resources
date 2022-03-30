@@ -11,11 +11,12 @@ Collected resources is shared with all developers
 
 ## Sections
 
-**Patterns** - for resources with patterns (from weekly meetups)
-**Meetups** - for resources from individual meetups
-**Django** - for resources with meetups/discource about Django
-**Useful** - for resources with just interesting things, or if they do not fit in the previous sections
+* **Patterns** - for resources with patterns (from weekly meetups)
+* **Meetups** - for resources from individual meetups
+* **Django** - for resources with meetups/discource about Django
+* **Useful** - for resources with just interesting things, or if they do not fit in the previous sections
 
+Other sections can be added later
 
 ## File hierarchy template
 
