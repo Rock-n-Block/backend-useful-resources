@@ -11,20 +11,20 @@ Collected resources is shared with all developers
 
 ## Sections
 
-Patterns - for resources with patterns (from weekly meetups)
-Meetups - for resources from individual meetups
-Django - for resources with meetups/discource about Django
-Useful - for resources with just interesting things, or if they do not fit in the previous sections
+**Patterns** - for resources with patterns (from weekly meetups)
+**Meetups** - for resources from individual meetups
+**Django** - for resources with meetups/discource about Django
+**Useful** - for resources with just interesting things, or if they do not fit in the previous sections
 
 
 ## File hierarchy template
 
 Create directory as described:
 ```
-name_of_resource/                # Actual folder
+name_of_resource/                    # Actual folder
 name_of_resource/code                # contains examples of code
 name_of_resource/presentation.pdf    # file of presentation (if exists), can be in PDF, PPTX, or other formats
-name_of_resource/README.md            # Readme with description of resource, can be in free form
+name_of_resource/README.md           # Readme with description of resource, can be in free form
 ```
 
 And put this directory `name_of_resource` to matching section.
