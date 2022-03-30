@@ -1,7 +1,8 @@
 # Backend useful resources
 
-This repo contains examples, code snippets, meetup records and speeches
-Collected resources is shared with all developers
+This repo contains examples, code snippets, meetup records and speeches.
+
+Collected resources is shared freely with all developers from team.
 
 
 ## For publishing:
